@@ -25,7 +25,7 @@ Credit card fraud detection involves identifying fraudulent transactions from a 
 The main challenge in credit card fraud detection is dealing with the highly imbalanced nature of the data, where fraudulent transactions make up a tiny fraction of the total transactions. The objective is to create a model that can effectively detect fraud without raising too many false alarms.
 
 ## Dataset
-
+The Datasets are taken from the Kaggle (https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 The dataset contains over 1 million transactions, with features such as:
 - Transaction amount
 - Merchant details
